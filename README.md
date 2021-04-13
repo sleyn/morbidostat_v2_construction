@@ -1,6 +1,7 @@
 # Morbidostat software upgrade.
 
 Document describes the second version of the morbidostat device from Osterman Lab.
+Software was implemented by [DIVO Systems](http://divo.com/)
 
 ## Motivation
 
