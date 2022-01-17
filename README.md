@@ -171,15 +171,15 @@ The following logic was implemented:
 > if (rate<sub>2</sub> \> rate<sub>1</sub> + (AvgOD<sub>2</sub> \>
 > AvgOD<sub>1</sub> ? Eur : Euf\])):
 > 
-> dilute with drug (mixture of Pump1 and Pump2)
+> &nbsp; dilute with drug (mixture of Pump1 and Pump2)
 > 
 > if (AvgOD<sub>2</sub> \> AvgOD<sub>1</sub> + Eod):
 > 
-> dilute alternating drug (mixture) and no-drug media
+> &nbsp; dilute alternating drug (mixture) and no-drug media
 > 
 > else:
 > 
-> dilute with no-drug media
+> &nbsp; dilute with no-drug media
 
 where:
 
